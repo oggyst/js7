@@ -10,6 +10,7 @@ function run(max, min) {
         let arrColumnNumbers = [];
         let arrMatrix = [[]];
         let intArrayAverage = 0;
+        let intBiggest, intSmallest;
         let arrayTemp = [];
         let counter= 0;
         let doOnce = true;
